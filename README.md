@@ -6,3 +6,4 @@ If you wish to contribute your own assets contact me (discord dkaloger#1751 or d
 
 other contributors (gmtk2020 jam) (discord):Buchecha#1578 ,CanWorkshop#0272,Nathan567#2870,GamerKing885#4912,ChronosFabula#4380,Gamedevkitty#1809,Iori Branford#1081,K.C#2234.
 
+see upstream version for the latest updates https://github.com/dkaloger/unity-lib-refined/wiki
