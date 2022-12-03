@@ -1,0 +1,8 @@
+Features:
+Complecated
+Lots of code 
+Dialogue graph
+No Pop-up / Close animations
+Text typing effect with color change
+No skipping
+Brached (not fully implemented)

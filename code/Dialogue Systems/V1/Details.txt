@@ -1,0 +1,6 @@
+Features:
+Simple
+With Pop-up / Close animations
+Text typing effect
+No skipping
+linear
